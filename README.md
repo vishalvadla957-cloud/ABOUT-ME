@@ -14,6 +14,7 @@ I'm a 3rd-year B.Tech student at Anurag College of Engineering, Hyderabad, passi
 - 🌱 Currently exploring Machine Learning, Deep Learning & Gen AI
 - 🎯 Goal: Become an AI Engineer
 - 💡 Interested in building practical AI applications
+- [Live](https://about-me-shvt.vercel.app/)
 
 ---
 
